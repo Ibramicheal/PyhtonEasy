@@ -15,3 +15,5 @@ yearOfRelease = 2018
 monthOfRelease = "september"
 dayOfRelease = 24
 viewsOnYouTube = 31,071,275
+
+print(Artist,Title,Genre,DurationInSeconds,fileType,cost,yearOfRelease,monthOfRelease,dayOfRelease,viewsOnYouTube)
